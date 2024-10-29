@@ -40,11 +40,10 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ```bash
 
 ├── BIRDSX-CAD
-│   ├── Assembly Dragonfly.step
-│   ├── Assembly Dragonfly.f3z
+│   ├── Assembly Dragonfly step.zip
 │   ├── Screw_Procurement list_v2 (version 1).xlsx
 │   ├── Satellite part Stresses 2.xlsx
-│   ├── BIRDSX- Structure (order)
+│   ├── BIRDSX- Structure
 │   │   ├── CAD
 │   │   │   ├── 0_2U_STD
 │   │   │   ├── 1_2U_STD
